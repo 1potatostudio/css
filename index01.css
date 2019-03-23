@@ -1,8 +1,4 @@
-h1 {
-    font-size:40px;
-    color: #ff983d;
-}
-h2 {
-    font-size: 30px;
-    color: #faa8ff;
+@font-face {
+    font-family: "字魂21号-不齐素圆体";
+    src: url("https://1potatostudio.github.io/typeface/%E5%AD%97%E9%AD%8221%E5%8F%B7-%E4%B8%8D%E9%BD%90%E7%B4%A0%E5%9C%86%E4%BD%93.ttf") format("truetype");
 }
